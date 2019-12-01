@@ -21,7 +21,7 @@ h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 24px;
   font-weight:bold;
-  padding: 20px;
+  padding: 23px;
   background-color: #4aaaa5;
   color: #ffffff;
 }
@@ -37,7 +37,6 @@ li{
   padding: 0 20px;
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
-
 }
 
 /* removing border from the last Contact element */
@@ -52,8 +51,7 @@ li:last-child{
 /* making links not underlined or blue */
 a{
   color: #777777;
-  text-decoration: none; 
-  background-color: none;
+  text-decoration: none;
 }
 
 
