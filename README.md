@@ -14,6 +14,12 @@ This is my personal website that contains the following structure:
 * portfolio.html - portfolio page - contains placeholder images with names of future projects. Once the project is ready placholder image is changed to the project logo image and the correct hyperlink to the project page is added.
 * contact.html - contact form page - contains a form to contact me with Input fields for Name and Email and a Textarea for the message. On this page there is a Submit button located that sends the info.
 
+## Testing
+
+HTML code was tested using validator tool https://validator.w3.org/#validate_by_input
+No major errors were found, except for warnings on the index.html page:
+* index.html - <section> and <article> lack headings - recommendation was to consider using headings
+
 
 ## Credits
 

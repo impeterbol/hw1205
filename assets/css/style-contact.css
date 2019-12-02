@@ -68,7 +68,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: bold;
-    padding: 20px 20px 10px 20px;
+    padding: 20px;
   }
   
   hr {
@@ -97,6 +97,7 @@ body{
     margin: 5px 0 16px;
     width: 100%;
     border: 1px solid #e2e2e2;
+    resize: none;
   }
 
   button{
@@ -119,7 +120,7 @@ body{
     padding: 10px;
   }
   
-  h3 {
+  small {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 10px;
     margin-top: 10px;
